@@ -98,6 +98,9 @@ a.linkz { cursor: pointer !important; }
 .discord {
   background-image: url('/socials/discord.svg');
 }
+.gitbook {
+  background-image: url('/socials/gitbook-icon.svg');
+}
 
 .navigationContentNavs {
   display: flex;
